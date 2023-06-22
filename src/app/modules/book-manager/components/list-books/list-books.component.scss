@@ -1,0 +1,16 @@
+table {
+    width: 100%;
+}
+.container{
+    width: 50%;
+    margin-left: 10px;
+}
+.form-container{
+    width: 50%;
+    div {
+        width: 100%;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+}
